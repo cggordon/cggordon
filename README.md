@@ -2,7 +2,7 @@
 
 <h2>Active Directory Projects:</h2>
 
-  - [Creating a user account in Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a user account in Active Directory](https://github.com/cggordon/AD-user-management/tree/main)
   - [Resolving a locked user account](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>OS Imaging Lab:</h2>
