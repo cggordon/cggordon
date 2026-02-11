@@ -7,7 +7,7 @@
 
 <h2>OS Imaging Lab:</h2>
 
-  - [Legacy System Reimaging with Linux](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Legacy System Reimaging with Linux](https://github.com/cggordon/OS-imaging-Linux/tree/main)
 
 
 
