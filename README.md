@@ -3,7 +3,7 @@
 <h2>Active Directory Projects:</h2>
 
   - [Creating a user account in Active Directory](https://github.com/cggordon/AD-user-management/tree/main)
-  - [Resolving a locked user account]()
+  - [Resolving a locked user account](https://github.com/cggordon/AD-account-lockout)
 
 <h2>OS Imaging Lab:</h2>
 
