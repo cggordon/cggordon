@@ -4,6 +4,7 @@
 
   - [Creating a user account in Active Directory](https://github.com/cggordon/AD-user-management/tree/main)
   - [Resolving a locked user account](https://github.com/cggordon/AD-account-lockout)
+  - [Delegate Control](https://github.com/cggordon/AD-Delegation)
 
 <h2>OS Imaging Lab:</h2>
 
