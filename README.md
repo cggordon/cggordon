@@ -1,4 +1,7 @@
 <h1>Hi, I'm Coby Gordon! </h1>
+MIS Graduate | IT Support | Active Directory & Technical Troubleshooting </br>
+I build hands-on IT labs to simulate real-world help desk and system administration scenarios.
+
 
 <h2>Active Directory Projects:</h2>
 
